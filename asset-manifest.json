@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AkshayAneja222.github.io/static/css/main.3a23c87c.css",
-    "main.js": "/AkshayAneja222.github.io/static/js/main.91bb3842.js",
+    "main.js": "/AkshayAneja222.github.io/static/js/main.b414f533.js",
     "index.html": "/AkshayAneja222.github.io/index.html",
     "main.3a23c87c.css.map": "/AkshayAneja222.github.io/static/css/main.3a23c87c.css.map",
-    "main.91bb3842.js.map": "/AkshayAneja222.github.io/static/js/main.91bb3842.js.map"
+    "main.b414f533.js.map": "/AkshayAneja222.github.io/static/js/main.b414f533.js.map"
   },
   "entrypoints": [
     "static/css/main.3a23c87c.css",
-    "static/js/main.91bb3842.js"
+    "static/js/main.b414f533.js"
   ]
 }
