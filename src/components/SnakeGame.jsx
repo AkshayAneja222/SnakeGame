@@ -32,12 +32,8 @@ export default class SnakeGame extends Component {
   componentDidMount() {
     let { BOARD, SNAKE_BODY } = this.state;
     BOARD[0][0] = "snake";
-    BOARD[0][1] = "snake";
-    BOARD[0][2] = "snake";
 
     SNAKE_BODY.push({ curr_i: 0, curr_j: 0 });
-    SNAKE_BODY.push({ curr_i: 0, curr_j: 1 });
-    SNAKE_BODY.push({ curr_i: 0, curr_j: 2 });
     document.addEventListener("keydown", (event) => {
       this.eventHandler(event.code);
     });
