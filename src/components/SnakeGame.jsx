@@ -23,8 +23,6 @@ export default class SnakeGame extends Component {
     this.state = {
       INITIAL_BOARD: JSON.parse(JSON.stringify(BOARD)),
       BOARD,
-      curr_i: 0,
-      curr_j: 0,
       SNAKE_BODY: [],
       FOOD: {},
       dir: ""
